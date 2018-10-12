@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("enter the name:");
             Console.ReadLine();
+            Console.WriteLine("enter the name is :");
+            Console.ReadLine();
+
         }
     }
 }
